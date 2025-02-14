@@ -1,0 +1,20 @@
+article {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  justify-content: center;
+}
+
+article img {
+  width: 200px;
+}
+
+.tojas {
+  flex: 0 0 30%;
+  height: 60vh;
+}
+
+.tojas3 {
+  flex: 0 0 95%;
+}
+
