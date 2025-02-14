@@ -1,7 +1,7 @@
 article {
   display: flex;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: 3px;
   justify-content: center;
 }
 
@@ -12,9 +12,11 @@ article img {
 .tojas {
   flex: 0 0 30%;
   height: 60vh;
+  border: 1px black solid;
 }
 
 .tojas3 {
-  flex: 0 0 95%;
+  flex: 0 0 91%;
+  border: 1px black solid;
 }
 
